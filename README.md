@@ -43,3 +43,6 @@ toptips:'必须为1开头且为数字的11位数'		//  提示信息
 **2、** v-model 绑定的值必须与v-validataion中的val字段的值一致
 
 **3、** input表单必须拥有id，提示信息生成的html拥有对应的唯一标识
+License
+---
+MIT
